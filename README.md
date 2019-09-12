@@ -18,3 +18,5 @@ optional arguments:
                         Default Gateway IP Address
 ```
 
+
+*Disclaimer - The script was created to provide a simple proof of concept. This script should be soley used for educational purposes.*
