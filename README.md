@@ -10,6 +10,9 @@ python arp_spoofer.py -v <victim_ip> -g <gateway_ip>
 
 ## Help Menu
 ```
+python arp_spoofer.py --help
+```
+```
 arp_spoofer.py [-h] [-v VICTIMIP] [-g GATEWAYIP]
 
 optional arguments:
